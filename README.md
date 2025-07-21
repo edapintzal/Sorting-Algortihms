@@ -1,6 +1,4 @@
 ## Sorting Algorithms Comparison: Insertion Sort, Merge Sort, Heap Sort, and Quick Sort
-
-### Overview
 This assignment involves implementing and comparing the performance of four sorting algorithms:
 - **Insertion Sort**
 - **Merge Sort**
@@ -20,12 +18,16 @@ Hardware Specifications Affecting Sorting Performance:
 * Likely Storage Type: SSD (TF Gaming series)
 
 <img width="967" height="371" alt="resim" src="https://github.com/user-attachments/assets/f0d5e217-98fc-4462-b548-68820ae65d5c" />
+Conclusion:
 
-For insertion sort it works best when the input size is at least and increased ordered. And it works
+*For insertion sort it works best when the input size is at least and increased ordered. And it works
 worst when the input size is the biggest and inputs are decreased ordered.
-For merge sort best is when the input size is at least and decreased ordered. Worst one is when input
+
+*For merge sort best is when the input size is at least and decreased ordered. Worst one is when input
 size is the biggest and inputs are random ordered.
-For heap sort best is when the input size is at least and inputs are decreasing ordered. Worst one is
+
+*For heap sort best is when the input size is at least and inputs are decreasing ordered. Worst one is
 when input size is the biggest and inputs are random ordered.
-For quick sort best is when the input size is at least and inputs are random ordered. Worst one is when
+
+*For quick sort best is when the input size is at least and inputs are random ordered. Worst one is when
 input size is the biggest and the inputs are increasing ordered.
